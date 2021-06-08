@@ -1,0 +1,31 @@
+<svg width="900" height="400" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+ <!-- Created with macSVG - https://macsvg.org/ - https://github.com/dsward2/macsvg/ -->
+
+ <title>Untitled.svg</title>
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="902" height="402" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text id="text5" stroke-width="1px" x="75" font-family="PT Sans" fill="#000000" font-size="24px" y="219" text-anchor="start">“edited ham.py, create spam.txt”</text>
+  <text id="text7" stroke-width="1px" x="531" y="348" font-family="PT Sans" fill="#000000" font-size="24px" text-anchor="middle">12:06 by Hettner</text>
+  <text id="text4" stroke-width="1px" x="75" font-family="PT Sans" fill="#000000" font-size="24px" y="348" text-anchor="start">"created ham.py”</text>
+  <circle stroke="#000000" cx="51" id="circle3" stroke-width="3px" cy="81" fill="#000000" r="10"/>
+  <circle stroke="#000000" id="circle1" stroke-width="3px" cy="341" fill="#000000" r="10" cx="51"/>
+  <circle stroke="#000000" cx="51" id="circle2" stroke-width="3px" cy="211" fill="#000000" r="10"/>
+  <line stroke="#000000" y1="98" id="line1" stroke-width="3px" x1="51" y2="196" x2="51"/>
+  <line stroke="#000000" y1="231" id="line2" stroke-width="3px" x1="51" y2="326" x2="51"/>
+  <text id="text3" stroke-width="1px" x="270" y="87" font-family="PT Sans" fill="#000000" font-size="24px" text-anchor="middle"/>
+  <line stroke="#000000" stroke-dasharray="3px" y1="29" id="line3" stroke-width="3px" x1="51" y2="62" x2="51"/>
+  <tspan id="tspan4" dy="0" dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,20,0,0,0,0,0,20,0,20" rotate="0">“delete ham.py” | 12:17 | Hettner</tspan>
+  <text id="text6" stroke-width="1px" x="531" font-family="PT Sans" fill="#000000" font-size="24px" y="218" text-anchor="middle">12:15 by Hettner</text>
+  <text id="text2" stroke-width="1px" x="75" font-family="PT Sans" fill="#000000" font-size="24px" y="88" text-anchor="start">“deleted ham.py, edited spam.txt”</text>
+  <text id="text8" stroke-width="1px" x="531" font-family="PT Sans" fill="#000000" font-size="24px" y="88" text-anchor="middle">12:20
+ by Hettner</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="218" x="724" stroke-width="0" stroke="#000000" fill="#7f0000">Commits</text>
+  <line transform="rotate(90, 680.5, 286.45)" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="331.950012" x2="727.000004" y1="240.950011" x1="634.000001" stroke-width="1.5" stroke="#7f0000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="174.950012" x2="727.000004" y1="83.950011" x1="634.000001" stroke-width="1.5" stroke="#7f0000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_10" y2="211.950015" x2="709.000009" y1="210.950015" x1="634" stroke-width="1.5" stroke="#7f0000" fill="none"/>
+ </g>
+</svg>

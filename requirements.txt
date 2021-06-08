@@ -1,0 +1,14 @@
+jupyter
+numpy
+geopandas
+rasterio
+requests
+rise
+pylint
+pytest
+cython
+boto3
+scikit-learn
+scipy
+seaborn
+plotly
