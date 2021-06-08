@@ -49,7 +49,7 @@ $ python check_environment.py > check_environment_result.txt
 
 ## 3. Using git and Jupyter Notebooks
 
-In this last section, you will use git to track the changes of the files that we have created so far. If you are not familiar with git yet, work through the section [Introduction to git](git/index.rst) before continuing with the exercises. 
+In this last section, you will use git to track the changes of the files that we have created so far. If you are not familiar with git yet, work through the section [Introduction to git](./git_introduction.md) before continuing with the exercises. 
 
 ### 3.1 Clone GitHub repository
 

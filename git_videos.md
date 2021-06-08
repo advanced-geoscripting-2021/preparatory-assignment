@@ -9,8 +9,9 @@ In order to use git you need to have a **GitHub Account** and **git must be inst
 
 To access the material for the preparatory assignment and to submit your solutions GitHub Classroom will create a GitHub repository for you. This repository is only accessible and visible to you and the teacher.
 
+--> Watch [tutorial video](https://www.youtube.com/embed/st7j4x-UxEw)
 
-<p align="center"><iframe width="600" height="350" src="https://www.youtube.com/embed/st7j4x-UxEw" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+[![Accessing the preparatory assignment](http://img.youtube.com/vi/st7j4x-UxEw/0.jpg)](http://www.youtube.com/watch?v=st7j4x-UxEw "Accessing the preparatory assignment")
 
 
 ### 2. Cloning the repository to your computer
@@ -20,7 +21,10 @@ In order to work on the files in the repository and to add new ones, you need to
 ```
 $ git clone https://github.com/geoscripting/preparatory-assignment-hettner.git
 ```
-<p align="center"><iframe width="600" height="350" src="https://www.youtube.com/embed/yfFbOUnbE1Y" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+--> Watch [tutorial video](https://www.youtube.com/embed/yfFbOUnbE1Y)
+
+[![Cloning the repository to your computer](http://img.youtube.com/vi/yfFbOUnbE1Y/0.jpg)](http://www.youtube.com/watch?v=yfFbOUnbE1Y "Accessing the preparatory assignment")
 
 
 ### 3. Synchronizing your changes with GitHub
@@ -33,8 +37,9 @@ $ git commit -m "added scientific_programming.txt"
 $ git push origin master
 ```
 
-<p align="center"><iframe width="600" height="350" src="https://www.youtube.com/embed/kVCLIPHfPDo" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+--> Watch [tutorial video](https://www.youtube.com/embed/kVCLIPHfPDo)
 
+[![Synchronizing your changes with GitHub](http://img.youtube.com/vi/kVCLIPHfPDo/0.jpg)](http://www.youtube.com/watch?v=kVCLIPHfPDo "Accessing the preparatory assignment")
 
 ### 4. Submission through GitHub Classroom
 

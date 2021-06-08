@@ -1,5 +1,6 @@
 # Introduction to git
 
+This is a short introduction to git. You may want to take a look at the **tutorial videos** for further instructions. Note that the videos are from last year, so there might be some differences (e.g. file names). 
 
 ### git is a Version Control System
 
