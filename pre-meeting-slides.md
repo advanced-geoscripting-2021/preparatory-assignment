@@ -35,7 +35,7 @@ Heidelberg University | Institute of Geography | June 9 2021
 ### Course instructor
 
 * Christina Ludwig
-* PhD Candidate at GIScience Research Group (Prof. Zipf)
+* Research associate and PhD Candidate at GIScience Research Group (Prof. Zipf)
 * Office: INF 348 / 12b
 
 If you have questions, please contact me via email at [christina.ludwig@uni-heidelberg.de](mailto:christina.ludwig@uni-heidelberg.de).
@@ -111,6 +111,7 @@ If necessary optional meeting before the block course for questions/problems wit
 
 Wilson G, Aruliah DA, Brown CT, Chue Hong NP, Davis M, Guy RT, et al. (2014) Best Practices for Scientific Computing. PLoS Biol 12(1): e1001745. https://doi.org/10.1371/journal.pbio.1001745
 
+Miller, G. (2006). A scientist's nightmare: software problem leads to five retractions.
 
 
 
