@@ -42,7 +42,7 @@ $ git clone https://github.com/your-github-user-name/preparatory-assignment.git
 Read the paper by [Wilson et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3886731/) on Best Practices for Scientific Computing and answer the following questions. Write your answer in a Markdown file called _scientific\_programming.md_. Read this [Guide on markdown](https://guides.github.com/features/mastering-markdown/) to format your file. 
 
 1. The paper describes several problems scientist face when performing scientific data analyses. From your experience in performing GIS and general data analyses, which of these problems seem familiar to you? Have you faced other problems not mentioned in the paper? (~100 words)
-2. Which methods described in the paper could help you avoid these problems in the future? (~100 words)
+2. Which methods described in the paper or which other skills, tools etc. would you like to learn to help you avoid these problems in the future? (~100 words)
 3. One of the recommendations by [Wilson et al. (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3886731/) for scientists is to use a Version Control System (VCS). Briefly explain in your own words, what the benefits of VCS are in the context of scientific analyses. (~100 words)
 
 <sup>Image source: “Piled Higher and Deeper” by Jorge Cham, http://www.phdcomics.com</sup>
