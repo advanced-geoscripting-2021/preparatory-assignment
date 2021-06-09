@@ -12,7 +12,7 @@ After you have completed this assignment you will be able to ...
 #### Important notes: 
 
 * Please make sure to __name the output files exactly as described.__
-* If you encounter problems which you cannot solve on your own, post your question in the MS Teams "Preparatory Assignment" channel. 
+* If you encounter problems which you cannot solve on your own, **post your question in the MS Teams "Preparatory Assignment" channel.** 
 
 
 ## 0. Create a GitHub Account
