@@ -52,13 +52,14 @@ Make sure that you set the new environment also for the Python console within Py
 
 #### Jupyter Notebook
 
-During the course we will be working with Jupyter Notebooks. In a nutshell, a Jupyter notebook is a combination of an HTML page and a python script. In this way, it can display Python code alongside formatted text, figures and charts. Notebooks are used frequently within scientific computing, because it is great way of explaining what the script is doing.
+During the course we will be working with Jupyter Notebooks. In a nutshell, a Jupyter notebook is a combination of a web application and a python script. In this way, it can display Python code alongside formatted text, figures and charts. Notebooks are used frequently within scientific computing, because it is great way of explaining what the script is doing. Watch [this video](https://www.youtube.com/watch?v=jZ952vChhuI) for a brief introduction to jupyter notebook. 
 
 **Verify installation**
 
-We've already installed jupyter notebook using conda above. To check wether it works, start a new jupyter notebook server by executing the following command within the Anaconda prompt.
+We've already installed jupyter notebook using conda above. To check wether it works, start a new jupyter notebook server by executing the following command within the Anaconda prompt and inside your advgeo environment.
 
 ```
+$ conda activate advgeo
 $ jupyter notebook
 ```
 
